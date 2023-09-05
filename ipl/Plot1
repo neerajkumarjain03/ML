@@ -1,0 +1,818 @@
+,ID,City,Team1,Team2,TossWinner,TossDecision,WinningTeam,Target
+0,1312200,Ahmedabad,Rajasthan Royals,Gujarat Titans,Rajasthan Royals,bat,Gujarat Titans,131
+1,1312199,Ahmedabad,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,158
+2,1312198,Kolkata,Royal Challengers Bangalore,Lucknow Super Giants,Lucknow Super Giants,field,Royal Challengers Bangalore,208
+3,1312197,Kolkata,Rajasthan Royals,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,189
+4,1304116,Mumbai,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,bat,Punjab Kings,158
+5,1304115,Mumbai,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,160
+6,1304114,Mumbai,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Rajasthan Royals,151
+7,1304113,Mumbai,Gujarat Titans,Royal Challengers Bangalore,Gujarat Titans,bat,Royal Challengers Bangalore,169
+8,1304112,Navi Mumbai,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,bat,Lucknow Super Giants,211
+9,1304111,Mumbai,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,Sunrisers Hyderabad,194
+10,1304110,Navi Mumbai,Delhi Capitals,Punjab Kings,Punjab Kings,field,Delhi Capitals,160
+11,1304109,Mumbai,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,bat,Rajasthan Royals,179
+12,1304108,Mumbai,Chennai Super Kings,Gujarat Titans,Chennai Super Kings,bat,Gujarat Titans,134
+13,1304107,Pune,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,Kolkata Knight Riders,178
+14,1304106,Mumbai,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Punjab Kings,210
+15,1304105,Mumbai,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,98
+16,1304104,Navi Mumbai,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,161
+17,1304103,Pune,Gujarat Titans,Lucknow Super Giants,Gujarat Titans,bat,Gujarat Titans,145
+18,1304102,Navi Mumbai,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Kolkata Knight Riders,166
+19,1304101,Navi Mumbai,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,Chennai Super Kings,209
+20,1304100,Mumbai,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,193
+21,1304099,Pune,Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,field,Lucknow Super Giants,177
+22,1304098,Mumbai,Punjab Kings,Rajasthan Royals,Punjab Kings,bat,Rajasthan Royals,190
+23,1304097,Mumbai,Mumbai Indians,Gujarat Titans,Gujarat Titans,field,Mumbai Indians,178
+24,1304096,Mumbai,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Delhi Capitals,208
+25,1304095,Pune,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Royal Challengers Bangalore,174
+26,1304094,Navi Mumbai,Gujarat Titans,Punjab Kings,Gujarat Titans,bat,Punjab Kings,144
+27,1304093,Mumbai,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,153
+28,1304092,Pune,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Chennai Super Kings,203
+29,1304091,Mumbai,Lucknow Super Giants,Delhi Capitals,Lucknow Super Giants,bat,Lucknow Super Giants,196
+30,1304090,Navi Mumbai,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,159
+31,1304089,Mumbai,Royal Challengers Bangalore,Gujarat Titans,Royal Challengers Bangalore,bat,Gujarat Titans,171
+32,1304088,Pune,Lucknow Super Giants,Punjab Kings,Punjab Kings,field,Lucknow Super Giants,154
+33,1304087,Mumbai,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,147
+34,1304086,Mumbai,Sunrisers Hyderabad,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,196
+35,1304085,Pune,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Rajasthan Royals,145
+36,1304084,Mumbai,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Punjab Kings,188
+37,1304083,Mumbai,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,field,Lucknow Super Giants,169
+38,1304082,Mumbai,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,69
+39,1304081,Navi Mumbai,Gujarat Titans,Kolkata Knight Riders,Gujarat Titans,bat,Gujarat Titans,157
+40,1304080,Mumbai,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,Rajasthan Royals,223
+41,1304079,Navi Mumbai,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,156
+42,1304078,Mumbai,Punjab Kings,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,116
+43,1304077,Mumbai,Royal Challengers Bangalore,Lucknow Super Giants,Lucknow Super Giants,field,Royal Challengers Bangalore,182
+44,1304076,Mumbai,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Rajasthan Royals,218
+45,1304075,Pune,Chennai Super Kings,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,170
+46,1304074,Mumbai,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,152
+47,1304073,Mumbai,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,Royal Challengers Bangalore,190
+48,1304072,Mumbai,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,field,Lucknow Super Giants,200
+49,1304071,Mumbai,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,176
+50,1304070,Mumbai,Gujarat Titans,Rajasthan Royals,Rajasthan Royals,field,Gujarat Titans,193
+51,1304069,Pune,Punjab Kings,Mumbai Indians,Mumbai Indians,field,Punjab Kings,199
+52,1304068,Mumbai,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Chennai Super Kings,217
+53,1304067,Mumbai,Gujarat Titans,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,163
+54,1304066,Mumbai,Rajasthan Royals,Lucknow Super Giants,Lucknow Super Giants,field,Rajasthan Royals,166
+55,1304065,Mumbai,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,Delhi Capitals,216
+56,1304064,Pune,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,152
+57,1304063,Mumbai,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,155
+58,1304062,Mumbai,Punjab Kings,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,190
+59,1304061,Mumbai,Delhi Capitals,Lucknow Super Giants,Lucknow Super Giants,field,Lucknow Super Giants,150
+60,1304060,Pune,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,162
+61,1304059,Mumbai,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,170
+62,1304058,Mumbai,Lucknow Super Giants,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Lucknow Super Giants,170
+63,1304057,Mumbai,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Punjab Kings,181
+64,1304056,Pune,Gujarat Titans,Delhi Capitals,Delhi Capitals,field,Gujarat Titans,172
+65,1304055,Mumbai,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,Rajasthan Royals,194
+66,1304054,Mumbai,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,138
+67,1304053,Mumbai,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,field,Lucknow Super Giants,211
+68,1304052,Mumbai,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,129
+69,1304051,Pune,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Rajasthan Royals,211
+70,1304050,Mumbai,Lucknow Super Giants,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,159
+71,1304049,Mumbai,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,field,Punjab Kings,206
+72,1304048,Mumbai,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,178
+73,1304047,Mumbai,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,132
+74,1254117,Dubai,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Chennai Super Kings,193
+75,1254116,Sharjah,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,136
+76,1254115,Sharjah,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,bat,Kolkata Knight Riders,139
+77,1254114,Dubai,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,173
+78,1254101,Dubai,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,165
+79,1254088,Abu Dhabi,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Mumbai Indians,236
+80,1254106,Sharjah,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Kolkata Knight Riders,172
+81,1254094,Dubai,Chennai Super Kings,Punjab Kings,Punjab Kings,field,Punjab Kings,135
+82,1254095,Abu Dhabi,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sunrisers Hyderabad,142
+83,1254093,Sharjah,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,91
+84,1254110,Dubai,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,137
+85,1254090,Sharjah,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,165
+86,1254109,Dubai,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Kolkata Knight Riders,116
+87,1254112,Sharjah,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,130
+88,1254089,Abu Dhabi,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,190
+89,1254102,Dubai,Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,Punjab Kings,166
+90,1254091,Sharjah,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,135
+91,1254103,Dubai,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,150
+92,1254099,Abu Dhabi,Punjab Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,136
+93,1254092,Sharjah,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,128
+94,1254100,Dubai,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,bat,Sunrisers Hyderabad,165
+95,1254098,Abu Dhabi,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,Chennai Super Kings,172
+96,1254108,Dubai,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Royal Challengers Bangalore,166
+97,1254097,Abu Dhabi,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,Delhi Capitals,155
+98,1254107,Sharjah,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Punjab Kings,126
+99,1254113,Sharjah,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,157
+100,1254096,Abu Dhabi,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,156
+101,1254105,Dubai,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,Delhi Capitals,135
+102,1254111,Dubai,Rajasthan Royals,Punjab Kings,Punjab Kings,field,Rajasthan Royals,186
+103,1254087,Abu Dhabi,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,bat,Kolkata Knight Riders,93
+104,1254104,Dubai,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Chennai Super Kings,157
+105,1254086,Ahmedabad,Punjab Kings,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,167
+106,1254085,Delhi,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Rajasthan Royals,221
+107,1254084,Delhi,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,219
+108,1254083,Ahmedabad,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Punjab Kings,180
+109,1254082,Ahmedabad,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,155
+110,1254081,Delhi,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,172
+111,1254080,Delhi,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,Chennai Super Kings,172
+112,1254079,Ahmedabad,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,Royal Challengers Bangalore,172
+113,1254078,Ahmedabad,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,124
+114,1254077,Chennai,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,Delhi Capitals,160
+115,1254076,Mumbai,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,Chennai Super Kings,192
+116,1254075,Mumbai,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,134
+117,1254074,Chennai,Mumbai Indians,Punjab Kings,Punjab Kings,field,Punjab Kings,132
+118,1254073,Mumbai,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,178
+119,1254072,Mumbai,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Chennai Super Kings,221
+120,1254071,Chennai,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,bat,Sunrisers Hyderabad,121
+121,1254070,Chennai,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,Delhi Capitals,138
+122,1254069,Mumbai,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Chennai Super Kings,189
+123,1254068,Mumbai,Punjab Kings,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,196
+124,1254067,Chennai,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,205
+125,1254066,Chennai,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Mumbai Indians,151
+126,1254065,Mumbai,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,107
+127,1254064,Mumbai,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,148
+128,1254063,Chennai,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Royal Challengers Bangalore,150
+129,1254062,Chennai,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Mumbai Indians,153
+130,1254061,Mumbai,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,Punjab Kings,222
+131,1254060,Chennai,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kolkata Knight Riders,188
+132,1254059,Mumbai,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,189
+133,1254058,Chennai,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,160
+134,1237181,Dubai,Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,Mumbai Indians,157
+135,1237180,Abu Dhabi,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,Delhi Capitals,190
+136,1237178,Abu Dhabi,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,132
+137,1237177,Dubai,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Mumbai Indians,201
+138,1216495,Dubai,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,150
+139,1216505,Abu Dhabi,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,153
+140,1216530,Dubai,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Kolkata Knight Riders,192
+141,1216506,Abu Dhabi,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,154
+142,1216535,Dubai,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,111
+143,1216502,Dubai,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,121
+144,1216537,Abu Dhabi,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,186
+145,1216536,Dubai,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,173
+146,1216499,Abu Dhabi,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,165
+147,1216524,Dubai,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,Sunrisers Hyderabad,220
+148,1216520,Dubai,Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,Punjab Kings,150
+149,1216541,Abu Dhabi,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Rajasthan Royals,196
+150,1216544,Dubai,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,Chennai Super Kings,146
+151,1216498,Dubai,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Punjab Kings,127
+152,1216497,Abu Dhabi,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Kolkata Knight Riders,195
+153,1216521,Dubai,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,115
+154,1216518,Dubai,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,155
+155,1216494,Abu Dhabi,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,Royal Challengers Bangalore,85
+156,1216546,Dubai,Delhi Capitals,Punjab Kings,Delhi Capitals,bat,Punjab Kings,165
+157,1216533,Abu Dhabi,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Rajasthan Royals,126
+158,1216512,Abu Dhabi,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kolkata Knight Riders,164
+159,1216517,Dubai,Mumbai Indians,Punjab Kings,Mumbai Indians,bat,Punjab Kings,177
+160,1216522,Dubai,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,Royal Challengers Bangalore,178
+161,1216509,Dubai,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Delhi Capitals,180
+162,1216526,Abu Dhabi,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,Mumbai Indians,149
+163,1216531,Dubai,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,bat,Punjab Kings,172
+164,1216543,Dubai,Delhi Capitals,Rajasthan Royals,Delhi Capitals,bat,Delhi Capitals,162
+165,1216528,Dubai,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,Chennai Super Kings,168
+166,1216540,Dubai,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,195
+167,1216507,Dubai,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,Rajasthan Royals,159
+168,1216529,Abu Dhabi,Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,Mumbai Indians,163
+169,1216523,Abu Dhabi,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,bat,Kolkata Knight Riders,165
+170,1216525,Dubai,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,170
+171,1216500,Dubai,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,Delhi Capitals,185
+172,1216542,Dubai,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,202
+173,1216501,Abu Dhabi,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,Kolkata Knight Riders,168
+174,1216511,Abu Dhabi,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Mumbai Indians,194
+175,1216519,Dubai,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Delhi Capitals,197
+176,1216513,Dubai,Punjab Kings,Chennai Super Kings,Punjab Kings,bat,Chennai Super Kings,179
+177,1216538,Dubai,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Mumbai Indians,209
+178,1216514,Abu Dhabi,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,Royal Challengers Bangalore,155
+179,1216515,Dubai,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,Delhi Capitals,229
+180,1216516,Dubai,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,165
+181,1216503,Abu Dhabi,Mumbai Indians,Punjab Kings,Punjab Kings,field,Mumbai Indians,192
+182,1216504,Dubai,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Kolkata Knight Riders,175
+183,1216532,Abu Dhabi,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,Sunrisers Hyderabad,163
+184,1216547,Dubai,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Royal Challengers Bangalore,202
+185,1216527,Dubai,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,224
+186,1216545,Abu Dhabi,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Kolkata Knight Riders,143
+187,1216539,Dubai,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Delhi Capitals,176
+188,1216510,Dubai,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Punjab Kings,207
+189,1216508,Abu Dhabi,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Mumbai Indians,196
+190,1216496,Dubai,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,Rajasthan Royals,217
+191,1216534,Dubai,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Royal Challengers Bangalore,164
+192,1216493,Dubai,Delhi Capitals,Punjab Kings,Punjab Kings,field,Delhi Capitals,158
+193,1216492,Abu Dhabi,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,163
+194,1181768,Hyderabad,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,Mumbai Indians,150
+195,1181767,Visakhapatnam,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,148
+196,1181766,Visakhapatnam,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,163
+197,1181764,Chennai,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Mumbai Indians,132
+198,1178430,Chandigarh,Chennai Super Kings,Punjab Kings,Punjab Kings,field,Punjab Kings,171
+199,1178431,Mumbai,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,134
+200,1178429,Bengaluru,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,176
+201,1178428,Delhi,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,bat,Delhi Capitals,116
+202,1178427,Chandigarh,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,184
+203,1178426,Mumbai,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Mumbai Indians,163
+204,1178425,Chennai,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,Chennai Super Kings,180
+206,1178423,Hyderabad,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,Sunrisers Hyderabad,213
+207,1178422,Kolkata,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Kolkata Knight Riders,233
+208,1178421,Delhi,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,bat,Delhi Capitals,188
+209,1178420,Jaipur,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,161
+210,1178419,Chennai,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Mumbai Indians,156
+211,1178418,Kolkata,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,176
+212,1178417,Bengaluru,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,field,Royal Challengers Bangalore,203
+213,1178416,Chennai,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,176
+214,1178415,Jaipur,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,192
+215,1178413,Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,160
+216,1178414,Bengaluru,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Royal Challengers Bangalore,162
+217,1178412,Delhi,Punjab Kings,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,164
+218,1178411,Jaipur,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,162
+219,1178410,Kolkata,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Royal Challengers Bangalore,214
+220,1178409,Delhi,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,Mumbai Indians,169
+221,1178408,Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,Sunrisers Hyderabad,133
+222,1178407,Chandigarh,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,Punjab Kings,183
+223,1178406,Mumbai,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,172
+224,1178404,Kolkata,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,162
+225,1178405,Hyderabad,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Delhi Capitals,156
+226,1178402,Mumbai,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,188
+227,1178403,Chandigarh,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,174
+228,1178401,Kolkata,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,179
+229,1178400,Jaipur,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,152
+230,1178399,Mumbai,Punjab Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,198
+231,1178398,Chennai,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,109
+232,1178397,Chandigarh,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,Punjab Kings,151
+233,1178396,Jaipur,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,140
+234,1178395,Bengaluru,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,150
+235,1178394,Hyderabad,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Mumbai Indians,137
+236,1178393,Chennai,Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,Chennai Super Kings,161
+237,1175372,Bengaluru,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,206
+238,1175371,Delhi,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,130
+239,1175370,Mumbai,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Mumbai Indians,171
+240,1175369,Jaipur,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,159
+241,1175368,Chandigarh,Punjab Kings,Delhi Capitals,Delhi Capitals,field,Punjab Kings,167
+242,1175366,Hyderabad,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sunrisers Hyderabad,232
+243,1175367,Chennai,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Chennai Super Kings,176
+244,1175365,Delhi,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,186
+245,1175364,Chandigarh,Mumbai Indians,Punjab Kings,Punjab Kings,field,Punjab Kings,177
+246,1175363,Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,bat,Sunrisers Hyderabad,199
+247,1175362,Bengaluru,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Mumbai Indians,188
+248,1175361,Kolkata,Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,Kolkata Knight Riders,219
+249,1175360,Delhi,Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,Chennai Super Kings,148
+250,1175359,Jaipur,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,Punjab Kings,185
+251,1175358,Mumbai,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,Delhi Capitals,214
+252,1175357,Kolkata,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,182
+253,1175356,Chennai,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,71
+254,1136620,Mumbai,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,179
+255,1136619,Kolkata,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Sunrisers Hyderabad,175
+256,1136618,Kolkata,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Kolkata Knight Riders,170
+257,1136617,Mumbai,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,140
+258,1136616,Pune,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,154
+259,1136615,Delhi,Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,Delhi Capitals,175
+260,1136614,Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Kolkata Knight Riders,173
+261,1136613,Jaipur,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,Rajasthan Royals,165
+262,1136612,Delhi,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Delhi Capitals,163
+263,1136611,Bengaluru,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Royal Challengers Bangalore,219
+264,1136610,Mumbai,Mumbai Indians,Punjab Kings,Punjab Kings,field,Mumbai Indians,187
+265,1136609,Kolkata,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,143
+266,1136608,Indore,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,89
+267,1136607,Mumbai,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,169
+268,1136606,Pune,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,180
+269,1136605,Delhi,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,182
+270,1136604,Indore,Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,Kolkata Knight Riders,246
+271,1136603,Jaipur,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Rajasthan Royals,177
+272,1136602,Delhi,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,Sunrisers Hyderabad,188
+273,1136601,Kolkata,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Mumbai Indians,211
+274,1136600,Jaipur,Rajasthan Royals,Punjab Kings,Rajasthan Royals,bat,Rajasthan Royals,159
+275,1136599,Hyderabad,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sunrisers Hyderabad,147
+276,1136598,Indore,Rajasthan Royals,Punjab Kings,Punjab Kings,field,Punjab Kings,153
+277,1136597,Mumbai,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Mumbai Indians,182
+278,1136596,Hyderabad,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,Sunrisers Hyderabad,164
+279,1136595,Pune,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,128
+280,1136594,Indore,Punjab Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,175
+281,1136593,Kolkata,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,178
+283,1136591,Bengaluru,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Royal Challengers Bangalore,168
+284,1136590,Pune,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,Chennai Super Kings,212
+285,1136588,Jaipur,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,152
+286,1136589,Bengaluru,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,176
+287,1136587,Pune,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,170
+288,1136586,Delhi,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,Delhi Capitals,220
+289,1136585,Hyderabad,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,Sunrisers Hyderabad,133
+290,1136584,Bengaluru,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,206
+291,1136583,Mumbai,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,Sunrisers Hyderabad,119
+292,1136582,Delhi,Punjab Kings,Delhi Capitals,Delhi Capitals,field,Punjab Kings,144
+293,1136581,Jaipur,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Rajasthan Royals,168
+294,1136580,Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Chennai Super Kings,183
+295,1136579,Bengaluru,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,175
+297,1136577,Pune,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Chennai Super Kings,205
+298,1136576,Chandigarh,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,bat,Punjab Kings,194
+299,1136575,Jaipur,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,161
+300,1136574,Mumbai,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Mumbai Indians,214
+301,1136573,Kolkata,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Kolkata Knight Riders,201
+302,1136572,Chandigarh,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Punjab Kings,198
+303,1136571,Bengaluru,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Rajasthan Royals,218
+304,1136570,Kolkata,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,139
+305,1136569,Mumbai,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,195
+306,1136568,Bengaluru,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,156
+307,1136567,Hyderabad,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,148
+309,1136565,Chennai,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,203
+310,1136564,Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,126
+311,1136562,Chandigarh,Delhi Capitals,Punjab Kings,Punjab Kings,field,Punjab Kings,167
+312,1136563,Kolkata,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,177
+313,1136561,Mumbai,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,166
+315,1082649,Bangalore,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,108
+318,1082646,Delhi,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,162
+320,1082644,Kolkata,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,Mumbai Indians,174
+323,1082641,Mumbai,Mumbai Indians,Punjab Kings,Mumbai Indians,field,Punjab Kings,231
+325,1082639,Chandigarh,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Punjab Kings,168
+326,1082638,Hyderabad,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,bat,Sunrisers Hyderabad,139
+327,1082636,Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,159
+329,1082635,Delhi,Delhi Capitals,Mumbai Indians,Delhi Capitals,field,Mumbai Indians,213
+331,1082633,Bangalore,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,field,Punjab Kings,139
+334,1082630,Delhi,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,Delhi Capitals,186
+336,1082628,Mumbai,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Mumbai Indians,163
+337,1082627,Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Sunrisers Hyderabad,210
+338,1082626,Chandigarh,Punjab Kings,Delhi Capitals,Punjab Kings,field,Punjab Kings,68
+341,1082622,Kolkata,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,Kolkata Knight Riders,161
+342,1082623,Chandigarh,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,Sunrisers Hyderabad,208
+346,1082617,Kolkata,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Kolkata Knight Riders,132
+349,1082614,Mumbai,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Mumbai Indians,143
+351,1082612,Indore,Punjab Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,199
+352,1082611,Hyderabad,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,192
+354,1082608,Delhi,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,bat,Kolkata Knight Riders,169
+355,1082609,Hyderabad,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,Sunrisers Hyderabad,160
+358,1082605,Delhi,Delhi Capitals,Punjab Kings,Delhi Capitals,bat,Delhi Capitals,189
+359,1082604,Kolkata,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kolkata Knight Riders,173
+361,1082602,Bangalore,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,143
+362,1082601,Kolkata,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,171
+363,1082600,Mumbai,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Mumbai Indians,159
+365,1082598,Indore,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Punjab Kings,149
+366,1082597,Mumbai,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,179
+368,1082595,Bengaluru,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,158
+372,1082591,Hyderabad,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sunrisers Hyderabad,208
+373,981019,Bangalore,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,209
+375,981015,Delhi,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Sunrisers Hyderabad,163
+377,981011,Raipur,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,139
+378,981009,Kolkata,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kolkata Knight Riders,172
+381,981003,Raipur,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,Delhi Capitals,159
+385,980995,Kolkata,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,184
+386,980991,Chandigarh,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,bat,Sunrisers Hyderabad,180
+387,980993,Visakhapatnam,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Mumbai Indians,207
+390,980985,Visakhapatnam,Mumbai Indians,Punjab Kings,Mumbai Indians,bat,Punjab Kings,125
+391,980983,Hyderabad,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,147
+392,980981,Bangalore,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,152
+394,980977,Chandigarh,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,field,Royal Challengers Bangalore,176
+396,980973,Visakhapatnam,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Sunrisers Hyderabad,178
+397,980971,Chandigarh,Punjab Kings,Delhi Capitals,Delhi Capitals,field,Punjab Kings,182
+401,980963,Kolkata,Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,Kolkata Knight Riders,165
+403,980959,Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,186
+406,980951,Delhi,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,Delhi Capitals,187
+407,980953,Hyderabad,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sunrisers Hyderabad,195
+409,980947,Mumbai,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,175
+412,980941,Chandigarh,Punjab Kings,Mumbai Indians,Punjab Kings,field,Mumbai Indians,190
+415,980935,Hyderabad,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,field,Sunrisers Hyderabad,144
+416,980933,Delhi,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,Delhi Capitals,165
+419,980927,Mumbai,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,Mumbai Indians,171
+420,980925,Chandigarh,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,139
+421,980923,Hyderabad,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,Sunrisers Hyderabad,143
+422,980921,Bangalore,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,192
+425,980915,Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Kolkata Knight Riders,143
+426,980913,Delhi,Delhi Capitals,Punjab Kings,Delhi Capitals,field,Delhi Capitals,112
+428,980909,Kolkata,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,188
+429,980907,Bangalore,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Royal Challengers Bangalore,228
+431,980903,Kolkata,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,Kolkata Knight Riders,99
+433,829823,Kolkata,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Mumbai Indians,203
+434,829821,Ranchi,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,Chennai Super Kings,140
+435,829819,Pune,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,181
+436,829817,Mumbai,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,188
+438,829815,Hyderabad,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,Mumbai Indians,114
+439,829811,Mumbai,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,Rajasthan Royals,200
+440,829809,Chandigarh,Punjab Kings,Chennai Super Kings,Punjab Kings,bat,Chennai Super Kings,131
+442,829805,Mumbai,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Mumbai Indians,172
+443,829803,Chandigarh,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Punjab Kings,107
+444,829801,Raipur,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,bat,Delhi Capitals,120
+445,829799,Hyderabad,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,186
+446,829797,Chennai,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Chennai Super Kings,158
+447,829795,Mumbai,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,236
+448,829793,Raipur,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,164
+449,829791,Kolkata,Kolkata Knight Riders,Punjab Kings,Punjab Kings,bat,Kolkata Knight Riders,184
+450,829789,Chennai,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Mumbai Indians,159
+451,829787,Mumbai,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Sunrisers Hyderabad,202
+452,829761,Kolkata,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,Kolkata Knight Riders,172
+453,829785,Bangalore,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,field,Royal Challengers Bangalore,227
+454,829783,Mumbai,Mumbai Indians,Delhi Capitals,Delhi Capitals,bat,Mumbai Indians,153
+455,829781,Kolkata,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kolkata Knight Riders,168
+456,829779,Chennai,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,Chennai Super Kings,149
+457,829775,Chandigarh,Punjab Kings,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,173
+458,829777,Mumbai,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,Rajasthan Royals,190
+459,829771,Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Royal Challengers Bangalore,112
+460,829773,Hyderabad,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,Sunrisers Hyderabad,193
+461,829769,Mumbai,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Mumbai Indians,188
+462,829767,Delhi,Delhi Capitals,Punjab Kings,Delhi Capitals,field,Delhi Capitals,119
+463,829723,Kolkata,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,166
+465,829765,Chennai,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Chennai Super Kings,135
+466,829759,Chandigarh,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,Sunrisers Hyderabad,151
+467,829757,Delhi,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,96
+468,829753,Chennai,Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,Chennai Super Kings,193
+469,829751,Mumbai,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Mumbai Indians,158
+470,829749,Ahmedabad,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,131
+471,829747,Delhi,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,Delhi Capitals,191
+473,829745,Bangalore,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,Chennai Super Kings,182
+474,829741,Ahmedabad,Rajasthan Royals,Punjab Kings,Punjab Kings,field,Punjab Kings,192
+475,829739,Delhi,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,147
+476,829735,Ahmedabad,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,Rajasthan Royals,157
+477,829737,Bangalore,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,Mumbai Indians,210
+478,829731,Visakhapatnam,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals,168
+479,829733,Pune,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,156
+480,829729,Mumbai,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,Chennai Super Kings,184
+481,829727,Visakhapatnam,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,128
+482,829725,Pune,Punjab Kings,Delhi Capitals,Punjab Kings,bat,Delhi Capitals,166
+483,829721,Ahmedabad,Rajasthan Royals,Mumbai Indians,Mumbai Indians,bat,Rajasthan Royals,165
+484,829719,Bangalore,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,167
+485,829717,Mumbai,Mumbai Indians,Punjab Kings,Mumbai Indians,field,Punjab Kings,178
+486,829715,Delhi,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,185
+487,829713,Kolkata,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,178
+488,829711,Chennai,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,Chennai Super Kings,210
+489,829709,Pune,Punjab Kings,Rajasthan Royals,Punjab Kings,field,Rajasthan Royals,163
+490,829707,Chennai,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,Chennai Super Kings,151
+491,829705,Kolkata,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,Kolkata Knight Riders,169
+492,734049,Bangalore,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,200
+493,734047,Mumbai,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,Punjab Kings,227
+494,734045,Mumbai,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Chennai Super Kings,174
+495,734043,Kolkata,Punjab Kings,Kolkata Knight Riders,Punjab Kings,field,Kolkata Knight Riders,164
+496,734041,Mumbai,Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Mumbai Indians,190
+497,734039,Chandigarh,Punjab Kings,Delhi Capitals,Punjab Kings,field,Punjab Kings,116
+498,734035,Bangalore,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,155
+499,734037,Kolkata,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,Kolkata Knight Riders,161
+500,734031,Mumbai,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Mumbai Indians,174
+501,734033,Chandigarh,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,Punjab Kings,180
+502,734027,Kolkata,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Kolkata Knight Riders,196
+503,734029,Ranchi,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,186
+504,734025,Chandigarh,Punjab Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,157
+505,734023,Kolkata,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,155
+506,734021,Hyderabad,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Sunrisers Hyderabad,161
+507,734019,Delhi,Delhi Capitals,Punjab Kings,Punjab Kings,field,Punjab Kings,165
+508,734017,Ahmedabad,Rajasthan Royals,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,179
+509,734013,Ranchi,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,Royal Challengers Bangalore,139
+510,734015,Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Kolkata Knight Riders,143
+511,734011,Ahmedabad,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,Rajasthan Royals,202
+512,734009,Cuttack,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,Kolkata Knight Riders,142
+513,734007,Hyderabad,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,Punjab Kings,206
+514,734005,Bangalore,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,Royal Challengers Bangalore,187
+515,734003,Ranchi,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Chennai Super Kings,149
+516,734001,Hyderabad,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,Mumbai Indians,158
+517,733997,Cuttack,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,150
+518,733999,Bangalore,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,Rajasthan Royals,191
+519,733995,Mumbai,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,158
+521,733991,Bangalore,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,field,Punjab Kings,199
+522,733989,Ahmedabad,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Sunrisers Hyderabad,135
+523,733985,Delhi,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,bat,Kolkata Knight Riders,161
+524,733987,Cuttack,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Punjab Kings,232
+525,733983,Mumbai,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Mumbai Indians,188
+526,733981,Delhi,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,179
+527,733979,Ahmedabad,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Rajasthan Royals,171
+528,733977,Bangalore,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,Royal Challengers Bangalore,156
+529,733975,Delhi,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,153
+530,733973,Mumbai,Mumbai Indians,Punjab Kings,Punjab Kings,bat,Mumbai Indians,169
+531,733971,Ranchi,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,Chennai Super Kings,149
+532,729317,Dubai,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Sunrisers Hyderabad,173
+533,729315,Abu Dhabi,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,153
+534,729313,Dubai,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,field,Punjab Kings,125
+535,729311,Dubai,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,Chennai Super Kings,146
+536,729309,Dubai,Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,Delhi Capitals,126
+537,729307,Abu Dhabi,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Punjab Kings,133
+538,729305,Abu Dhabi,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,Rajasthan Royals,71
+539,729301,Dubai,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,185
+540,729303,Dubai,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Chennai Super Kings,142
+541,729299,Dubai,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Kolkata Knight Riders,151
+542,729297,Dubai,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,Chennai Super Kings,141
+543,729295,Dubai,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Punjab Kings,194
+544,729293,Abu Dhabi,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Chennai Super Kings,178
+545,729291,Dubai,Rajasthan Royals,Punjab Kings,Punjab Kings,field,Punjab Kings,192
+546,729289,Dubai,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,Delhi Capitals,167
+547,729287,Dubai,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,Royal Challengers Bangalore,116
+548,729285,Abu Dhabi,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,134
+549,729283,Abu Dhabi,Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,Punjab Kings,206
+550,729281,Dubai,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,146
+551,729279,Abu Dhabi,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,164
+552,598073,Kolkata,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,149
+553,598072,Kolkata,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,Mumbai Indians,166
+554,598071,Delhi,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Rajasthan Royals,133
+555,598070,Delhi,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Chennai Super Kings,193
+556,598069,Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,bat,Sunrisers Hyderabad,131
+558,598068,Bangalore,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Royal Challengers Bangalore,107
+559,598066,Dharamsala,Punjab Kings,Mumbai Indians,Mumbai Indians,field,Punjab Kings,184
+560,598065,Hyderabad,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,137
+561,598028,Dharamsala,Punjab Kings,Delhi Capitals,Delhi Capitals,field,Punjab Kings,172
+562,598063,Mumbai,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Mumbai Indians,167
+564,598062,Chennai,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Chennai Super Kings,169
+565,598045,Bangalore,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,field,Punjab Kings,175
+566,598060,Mumbai,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Mumbai Indians,179
+567,598058,Jaipur,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,Rajasthan Royals,142
+568,598057,Ranchi,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,field,Kolkata Knight Riders,116
+569,598056,Chandigarh,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,Sunrisers Hyderabad,151
+571,598054,Delhi,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,field,Royal Challengers Bangalore,184
+573,598052,Chandigarh,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,146
+574,598051,Hyderabad,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,Chennai Super Kings,224
+575,598049,Jaipur,Rajasthan Royals,Delhi Capitals,Delhi Capitals,bat,Rajasthan Royals,155
+576,598050,Mumbai,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,Mumbai Indians,171
+577,598064,Chandigarh,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,field,Punjab Kings,191
+579,598046,Mumbai,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,Mumbai Indians,140
+580,598044,Hyderabad,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,bat,Sunrisers Hyderabad,81
+581,598043,Kolkata,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,Kolkata Knight Riders,133
+583,598041,Chennai,Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,Chennai Super Kings,187
+584,598040,Raipur,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,bat,Delhi Capitals,137
+585,598039,Hyderabad,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,bat,Sunrisers Hyderabad,130
+587,598037,Mumbai,Mumbai Indians,Punjab Kings,Mumbai Indians,bat,Mumbai Indians,175
+588,598036,Jaipur,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,Rajasthan Royals,172
+589,598034,Chennai,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Chennai Super Kings,201
+591,598033,Mumbai,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,Mumbai Indians,195
+592,598032,Jaipur,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Rajasthan Royals,145
+593,598031,Kolkata,Kolkata Knight Riders,Punjab Kings,Punjab Kings,bat,Kolkata Knight Riders,150
+594,598030,Chennai,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Chennai Super Kings,160
+595,598029,Kolkata,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,Mumbai Indians,160
+596,598059,Delhi,Delhi Capitals,Punjab Kings,Punjab Kings,field,Punjab Kings,121
+598,598026,Chennai,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Chennai Super Kings,186
+600,598024,Delhi,Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,Delhi Capitals,162
+601,598023,Bangalore,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,Royal Challengers Bangalore,118
+602,598022,Kolkata,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,Chennai Super Kings,120
+603,598021,Hyderabad,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,bat,Sunrisers Hyderabad,124
+604,598020,Delhi,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,170
+605,598019,Jaipur,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,Rajasthan Royals,180
+607,598016,Chandigarh,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Punjab Kings,158
+608,598017,Bangalore,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,field,Royal Challengers Bangalore,153
+610,598014,Jaipur,Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,Rajasthan Royals,125
+611,598013,Kolkata,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,Kolkata Knight Riders,181
+612,598012,Chennai,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,Chennai Super Kings,166
+614,598010,Delhi,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,Sunrisers Hyderabad,115
+616,598008,Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Royal Challengers Bangalore,155
+617,598007,Chandigarh,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,139
+618,598048,Bangalore,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Royal Challengers Bangalore,162
+619,598006,Mumbai,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,Mumbai Indians,210
+620,598005,Jaipur,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Rajasthan Royals,145
+621,598004,Hyderabad,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Sunrisers Hyderabad,131
+623,598002,Chennai,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,149
+624,598001,Delhi,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,166
+626,597999,Bangalore,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Royal Challengers Bangalore,157
+627,597998,Kolkata,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,Kolkata Knight Riders,129
+628,548381,Chennai,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,bat,Kolkata Knight Riders,191
+629,548380,Chennai,Delhi Capitals,Chennai Super Kings,Delhi Capitals,field,Chennai Super Kings,223
+630,548379,Bangalore,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Chennai Super Kings,188
+631,548378,Pune,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,163
+632,548377,Jaipur,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,Mumbai Indians,163
+633,548376,Hyderabad,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sunrisers Hyderabad,133
+635,548374,Dharamsala,Punjab Kings,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,142
+636,548373,Hyderabad,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,bat,Sunrisers Hyderabad,127
+637,548371,Dharamsala,Punjab Kings,Chennai Super Kings,Punjab Kings,field,Punjab Kings,121
+638,548372,Delhi,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,field,Royal Challengers Bangalore,216
+639,548370,Mumbai,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Kolkata Knight Riders,141
+640,548369,Delhi,Delhi Capitals,Punjab Kings,Punjab Kings,bat,Delhi Capitals,137
+641,548368,Kolkata,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,159
+642,548367,Bangalore,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,172
+643,548366,Chandigarh,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Punjab Kings,191
+645,548364,Chennai,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,Chennai Super Kings,115
+646,548363,Kolkata,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,183
+648,548361,Jaipur,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,127
+649,548329,Hyderabad,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,Delhi Capitals,188
+650,548360,Mumbai,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,142
+651,548359,Hyderabad,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,field,Punjab Kings,171
+653,548357,Delhi,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,bat,Kolkata Knight Riders,154
+654,548356,Bangalore,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,Royal Challengers Bangalore,182
+655,548355,Mumbai,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Mumbai Indians,174
+656,548354,Chandigarh,Punjab Kings,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,178
+658,548352,Chennai,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,Chennai Super Kings,161
+660,548350,Bangalore,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,field,Punjab Kings,159
+661,548349,Jaipur,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,bat,Delhi Capitals,142
+663,548347,Chennai,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,Kolkata Knight Riders,140
+664,548346,Mumbai,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Mumbai Indians,101
+665,548345,Delhi,Delhi Capitals,Rajasthan Royals,Delhi Capitals,bat,Delhi Capitals,153
+666,548344,Kolkata,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,Kolkata Knight Riders,191
+667,548343,Chennai,Chennai Super Kings,Punjab Kings,Punjab Kings,bat,Punjab Kings,157
+668,548342,Delhi,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,Delhi Capitals,208
+670,548339,Chandigarh,Punjab Kings,Mumbai Indians,Punjab Kings,bat,Mumbai Indians,169
+672,548336,Jaipur,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,Royal Challengers Bangalore,190
+673,548334,Mumbai,Mumbai Indians,Punjab Kings,Mumbai Indians,bat,Punjab Kings,164
+674,548335,Cuttack,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,127
+676,548332,Chennai,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Chennai Super Kings,147
+677,548331,Chandigarh,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,164
+679,548321,Delhi,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Delhi Capitals,158
+680,548328,Chandigarh,Punjab Kings,Kolkata Knight Riders,Punjab Kings,bat,Kolkata Knight Riders,125
+682,548326,Jaipur,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Rajasthan Royals,197
+683,548325,Mumbai,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,93
+684,548324,Bangalore,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,196
+685,548323,Kolkata,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Punjab Kings,135
+687,548320,Kolkata,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,Kolkata Knight Riders,132
+689,548318,Chennai,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Chennai Super Kings,206
+690,548317,Mumbai,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Mumbai Indians,198
+691,548316,Delhi,Delhi Capitals,Chennai Super Kings,Delhi Capitals,field,Delhi Capitals,111
+692,548315,Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Kolkata Knight Riders,166
+693,548314,Visakhapatnam,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,Mumbai Indians,139
+695,548312,Jaipur,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Rajasthan Royals,165
+696,548311,Visakhapatnam,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,Chennai Super Kings,194
+697,548310,Bangalore,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,Royal Challengers Bangalore,158
+698,548309,Jaipur,Rajasthan Royals,Punjab Kings,Punjab Kings,field,Rajasthan Royals,192
+700,548307,Kolkata,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,98
+701,548306,Chennai,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,113
+702,501271,Chennai,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,Chennai Super Kings,206
+703,501270,Chennai,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Royal Challengers Bangalore,186
+704,501269,Mumbai,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,148
+705,501268,Mumbai,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,176
+706,501267,Kolkata,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,176
+707,501266,Bangalore,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,Royal Challengers Bangalore,129
+709,501264,Dharamsala,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,Sunrisers Hyderabad,199
+710,501263,Mumbai,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Rajasthan Royals,134
+713,501260,Dharamsala,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,bat,Punjab Kings,233
+716,501257,Dharamsala,Punjab Kings,Delhi Capitals,Delhi Capitals,field,Punjab Kings,171
+718,501256,Mumbai,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,136
+720,501253,Chennai,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Chennai Super Kings,177
+721,501252,Jaipur,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,147
+722,501251,Chandigarh,Punjab Kings,Mumbai Indians,Mumbai Indians,field,Punjab Kings,164
+724,501249,Jaipur,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,Chennai Super Kings,197
+727,501246,Mumbai,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Mumbai Indians,179
+729,501244,Bangalore,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,field,Royal Challengers Bangalore,206
+730,501243,Hyderabad,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,176
+733,501240,Chennai,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Chennai Super Kings,148
+734,501239,Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,Kolkata Knight Riders,170
+736,501237,Mumbai,Mumbai Indians,Punjab Kings,Punjab Kings,field,Mumbai Indians,160
+738,501236,Chennai,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,Chennai Super Kings,166
+740,501234,Kolkata,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,120
+742,501231,Jaipur,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Rajasthan Royals,95
+743,501230,Delhi,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,Kolkata Knight Riders,149
+746,501227,Delhi,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,161
+749,501224,Hyderabad,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,Mumbai Indians,173
+750,501223,Delhi,Delhi Capitals,Punjab Kings,Punjab Kings,field,Delhi Capitals,232
+751,501222,Kolkata,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,172
+752,501221,Mumbai,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Mumbai Indians,165
+753,501220,Chandigarh,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,Punjab Kings,196
+756,501216,Delhi,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,169
+758,501214,Kolkata,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Kolkata Knight Riders,82
+760,501212,Hyderabad,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,Punjab Kings,166
+761,501211,Chennai,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,Chennai Super Kings,184
+763,501209,Jaipur,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,160
+764,501208,Hyderabad,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sunrisers Hyderabad,176
+766,501206,Chandigarh,Punjab Kings,Chennai Super Kings,Punjab Kings,field,Punjab Kings,189
+767,501204,Jaipur,Rajasthan Royals,Delhi Capitals,Delhi Capitals,bat,Rajasthan Royals,152
+768,501205,Bangalore,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,141
+769,501203,Kolkata,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,Kolkata Knight Riders,164
+771,501201,Delhi,Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,Mumbai Indians,96
+773,501199,Hyderabad,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,138
+774,501198,Chennai,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,Chennai Super Kings,154
+775,419165,Mumbai,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Chennai Super Kings,169
+776,419164,Mumbai,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Royal Challengers Bangalore,83
+777,419163,Mumbai,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,Chennai Super Kings,143
+778,419162,Mumbai,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,185
+779,419161,Kolkata,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,Kolkata Knight Riders,134
+780,419160,Delhi,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,146
+781,419159,Dharamsala,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,193
+782,419158,Kolkata,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,Kolkata Knight Riders,133
+783,419157,Bangalore,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,Mumbai Indians,192
+784,419156,Dharamsala,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,175
+785,419155,Chennai,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Delhi Capitals,113
+786,419154,Jaipur,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,Royal Challengers Bangalore,131
+787,419153,Chennai,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,Chennai Super Kings,140
+788,419152,Mumbai,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,Mumbai Indians,184
+789,419151,Nagpur,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sunrisers Hyderabad,152
+790,419150,Jaipur,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Mumbai Indians,175
+791,419149,Delhi,Delhi Capitals,Punjab Kings,Delhi Capitals,bat,Punjab Kings,112
+792,419148,Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Royal Challengers Bangalore,161
+793,419147,Nagpur,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,bat,Sunrisers Hyderabad,139
+794,419146,Chandigarh,Punjab Kings,Mumbai Indians,Mumbai Indians,bat,Punjab Kings,155
+795,419145,Bangalore,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,185
+796,419144,Kolkata,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,Kolkata Knight Riders,182
+797,419143,Jaipur,Rajasthan Royals,Punjab Kings,Punjab Kings,bat,Rajasthan Royals,154
+798,419142,Chennai,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Chennai Super Kings,166
+799,419141,Nagpur,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,160
+800,419139,Kolkata,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,bat,Punjab Kings,201
+801,419140,Delhi,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,bat,Delhi Capitals,185
+802,419138,Mumbai,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Mumbai Indians,179
+803,419137,Chennai,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Chennai Super Kings,247
+804,419136,Chandigarh,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,bat,Royal Challengers Bangalore,182
+805,419135,Kolkata,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,Kolkata Knight Riders,182
+806,419134,Delhi,Delhi Capitals,Rajasthan Royals,Delhi Capitals,bat,Delhi Capitals,189
+807,419133,Chennai,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Chennai Super Kings,162
+808,419132,Mumbai,Mumbai Indians,Punjab Kings,Mumbai Indians,field,Mumbai Indians,164
+809,419131,Delhi,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,bat,Delhi Capitals,178
+810,419130,Mumbai,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,Mumbai Indians,173
+811,419129,Ahmedabad,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,Rajasthan Royals,178
+812,419127,Chandigarh,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,184
+813,419126,Ahmedabad,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Rajasthan Royals,149
+814,419125,Mumbai,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,181
+815,419128,Bangalore,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,field,Delhi Capitals,184
+816,419124,Chandigarh,Punjab Kings,Rajasthan Royals,Punjab Kings,field,Rajasthan Royals,184
+817,419123,Bangalore,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Royal Challengers Bangalore,172
+818,419122,Mumbai,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,Mumbai Indians,156
+819,419121,Chennai,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,Punjab Kings,137
+820,419120,Cuttack,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,172
+821,419119,Mumbai,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,Royal Challengers Bangalore,152
+822,419118,Ahmedabad,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,Rajasthan Royals,169
+823,419116,Delhi,Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,Chennai Super Kings,186
+824,419117,Cuttack,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,Sunrisers Hyderabad,171
+825,419115,Bangalore,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,Royal Challengers Bangalore,93
+826,419114,Delhi,Delhi Capitals,Mumbai Indians,Delhi Capitals,field,Mumbai Indians,219
+827,419113,Kolkata,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,165
+828,419112,Bangalore,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,bat,Royal Challengers Bangalore,204
+829,419111,Ahmedabad,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,142
+830,419109,Kolkata,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,field,Kolkata Knight Riders,136
+831,419110,Chennai,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,191
+832,419108,Chandigarh,Punjab Kings,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,143
+833,419107,Mumbai,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Mumbai Indians,213
+834,419106,Mumbai,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,Kolkata Knight Riders,162
+835,392239,Johannesburg,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,Sunrisers Hyderabad,144
+836,392238,Johannesburg,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,Royal Challengers Bangalore,147
+837,392237,Centurion,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,154
+838,392236,Centurion,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,171
+839,392235,Centurion,Delhi Capitals,Mumbai Indians,Delhi Capitals,field,Delhi Capitals,166
+840,392234,Durban,Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,Chennai Super Kings,117
+841,392233,Durban,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Kolkata Knight Riders,102
+842,392232,Johannesburg,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,bat,Royal Challengers Bangalore,135
+843,392231,Centurion,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,Kolkata Knight Riders,189
+844,392230,Bloemfontein,Delhi Capitals,Rajasthan Royals,Delhi Capitals,bat,Delhi Capitals,151
+845,392229,Johannesburg,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,field,Punjab Kings,135
+846,392227,Port Elizabeth,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Chennai Super Kings,148
+847,392228,Johannesburg,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,Sunrisers Hyderabad,161
+848,392226,Bloemfontein,Delhi Capitals,Punjab Kings,Punjab Kings,field,Punjab Kings,121
+849,392225,Durban,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,146
+850,392224,Durban,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,bat,Royal Challengers Bangalore,130
+851,392223,Durban,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,Delhi Capitals,174
+852,392222,Centurion,Punjab Kings,Mumbai Indians,Punjab Kings,bat,Mumbai Indians,120
+853,392221,Centurion,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Royal Challengers Bangalore,174
+854,392220,Kimberley,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,167
+855,392219,Johannesburg,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,Delhi Capitals,124
+856,392218,Port Elizabeth,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,158
+857,392216,Kimberley,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,Punjab Kings,169
+858,392217,Kimberley,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Chennai Super Kings,141
+859,392215,East London,Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,Delhi Capitals,117
+861,392213,Centurion,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,106
+862,392212,Centurion,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,146
+863,392211,Durban,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,bat,Delhi Capitals,155
+864,392210,Durban,Punjab Kings,Rajasthan Royals,Punjab Kings,field,Rajasthan Royals,212
+865,392209,East London,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,Chennai Super Kings,179
+866,392208,Johannesburg,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,bat,Royal Challengers Bangalore,150
+867,392207,Port Elizabeth,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,Punjab Kings,154
+868,392205,Port Elizabeth,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,Rajasthan Royals,142
+869,392206,Johannesburg,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,Chennai Super Kings,164
+870,392203,East London,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,149
+871,392204,Durban,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,146
+872,392202,Centurion,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Chennai Super Kings,165
+873,392201,Centurion,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,149
+874,392200,Durban,Punjab Kings,Mumbai Indians,Punjab Kings,bat,Punjab Kings,120
+875,392199,Durban,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,bat,Royal Challengers Bangalore,140
+876,392198,Centurion,Delhi Capitals,Rajasthan Royals,Delhi Capitals,bat,Rajasthan Royals,144
+877,392197,Port Elizabeth,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,188
+878,392196,Durban,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,166
+879,392194,Port Elizabeth,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,bat,Delhi Capitals,150
+880,392195,Cape Town,Punjab Kings,Rajasthan Royals,Punjab Kings,bat,Punjab Kings,140
+881,392192,Durban,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,169
+882,392191,Durban,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,bat,Punjab Kings,169
+883,392190,Cape Town,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Rajasthan Royals,151
+884,392189,Durban,Chennai Super Kings,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals,190
+885,392188,Cape Town,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,185
+887,392185,Port Elizabeth,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,180
+888,392184,Cape Town,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,bat,Sunrisers Hyderabad,102
+890,392182,Cape Town,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,134
+891,392181,Cape Town,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Mumbai Indians,166
+892,336040,Mumbai,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,164
+893,336039,Mumbai,Chennai Super Kings,Punjab Kings,Punjab Kings,bat,Chennai Super Kings,113
+894,336038,Mumbai,Delhi Capitals,Rajasthan Royals,Delhi Capitals,field,Rajasthan Royals,193
+895,336019,Chandigarh,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,Punjab Kings,222
+896,336012,Bangalore,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,123
+897,336037,Hyderabad,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,Chennai Super Kings,148
+898,336036,Jaipur,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Rajasthan Royals,146
+899,336035,Kolkata,Kolkata Knight Riders,Punjab Kings,Punjab Kings,bat,Kolkata Knight Riders,175
+900,336002,Hyderabad,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,Royal Challengers Bangalore,166
+901,336033,Chennai,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,212
+902,336032,Delhi,Delhi Capitals,Mumbai Indians,Delhi Capitals,field,Delhi Capitals,177
+903,336031,Chandigarh,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,Punjab Kings,176
+904,336029,Chennai,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,127
+905,336028,Mumbai,Mumbai Indians,Punjab Kings,Mumbai Indians,field,Punjab Kings,190
+906,336027,Kolkata,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,148
+907,336026,Bangalore,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,155
+909,336024,Hyderabad,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,Mumbai Indians,179
+911,336023,Jaipur,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Rajasthan Royals,198
+912,336021,Mumbai,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,68
+913,336020,Delhi,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Delhi Capitals,195
+914,336018,Mumbai,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Mumbai Indians,157
+915,336017,Kolkata,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,Kolkata Knight Riders,134
+916,336016,Chandigarh,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Punjab Kings,144
+917,336015,Jaipur,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,field,Rajasthan Royals,157
+918,336014,Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,205
+919,336013,Chennai,Chennai Super Kings,Punjab Kings,Punjab Kings,field,Chennai Super Kings,182
+920,336011,Jaipur,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Rajasthan Royals,141
+921,336009,Delhi,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,188
+922,336010,Kolkata,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,Kolkata Knight Riders,130
+923,336008,Mumbai,Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Mumbai Indians,104
+924,336007,Chennai,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,145
+925,336006,Bangalore,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,field,Punjab Kings,127
+926,336005,Jaipur,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,Rajasthan Royals,110
+927,336004,Mumbai,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Mumbai Indians,163
+928,336034,Bangalore,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Royal Challengers Bangalore,157
+929,336003,Chandigarh,Punjab Kings,Kolkata Knight Riders,Punjab Kings,bat,Punjab Kings,179
+930,336001,Chennai,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Delhi Capitals,170
+931,336000,Jaipur,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,Rajasthan Royals,197
+932,335999,Hyderabad,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,Punjab Kings,165
+933,335998,Delhi,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Delhi Capitals,192
+934,335997,Kolkata,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,Mumbai Indians,138
+935,335996,Bangalore,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,179
+936,335995,Chandigarh,Punjab Kings,Delhi Capitals,Delhi Capitals,bat,Punjab Kings,159
+937,335994,Mumbai,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,155
+938,335993,Chennai,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,Chennai Super Kings,148
+939,335992,Bangalore,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,136
+940,335991,Chandigarh,Punjab Kings,Mumbai Indians,Mumbai Indians,field,Punjab Kings,183
+941,335990,Hyderabad,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,215
+942,335989,Chennai,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Chennai Super Kings,209
+943,335988,Hyderabad,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,Delhi Capitals,143
+944,335987,Jaipur,Rajasthan Royals,Punjab Kings,Punjab Kings,bat,Rajasthan Royals,167
+945,335986,Kolkata,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Kolkata Knight Riders,111
+946,335985,Mumbai,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,Royal Challengers Bangalore,166
+947,335984,Delhi,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,bat,Delhi Capitals,130
+948,335983,Chandigarh,Punjab Kings,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,241
+949,335982,Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Kolkata Knight Riders,223
